@@ -2,7 +2,7 @@
 
 # AnomalyDAE
 
-Implementation code of the algorithm described in paper "AnomalyDAE: AnomalyDAE: Dual autoencoder for anomaly detection on attributed networks". 
+Implementation code of the algorithm described in paper "AnomalyDAE: Dual autoencoder for anomaly detection on attributed networks". 
 
 
 <p align="center">
@@ -35,7 +35,7 @@ Anomaly detection on attributed networks aims at finding nodes whose patterns de
   author       = {Haoyi Fan, Fengbin Zhang, and Zuoyong Li},
   booktitle    = {45th International Conference on Acoustics, Speech, and Signal Processing},
   year         = {2020},
-  organization = {ICASSP}
+  organization={IEEE}
 }
 
 ```
