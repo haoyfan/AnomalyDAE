@@ -31,7 +31,7 @@ Anomaly detection on attributed networks aims at finding nodes whose patterns de
 
 ```
 @inproceedings{fan2020anomalydae,
-  title        = {AnomalyDAE: AnomalyDAE: Dual autoencoder for anomaly detection on attributed networks},
+  title        = {AnomalyDAE: Dual autoencoder for anomaly detection on attributed networks},
   author       = {Haoyi Fan, Fengbin Zhang, and Zuoyong Li},
   booktitle    = {45th International Conference on Acoustics, Speech, and Signal Processing},
   year         = {2020},
