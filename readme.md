@@ -27,6 +27,12 @@ Anomaly detection on attributed networks aims at finding nodes whose patterns de
   <img src="_images/results.jpg" width="420"  />
 </p>
 
+
+## Experimental results  
+python==3.6
+TensorFlow 1.10
+
+
 ## Cite:
 
 ```
@@ -41,5 +47,6 @@ Anomaly detection on attributed networks aims at finding nodes whose patterns de
 ```
 
 
-
+## Acknowledgement
+ - This code is heavily borrowed from [Kaize Ding et al.](https://github.com/kaize0409/GCN_AnomalyDetection)
 
